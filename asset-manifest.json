@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/beautiful-dnd/static/js/main.3ef60043.chunk.js",
+    "main.js.map": "/beautiful-dnd/static/js/main.3ef60043.chunk.js.map",
+    "runtime-main.js": "/beautiful-dnd/static/js/runtime-main.057833cb.js",
+    "runtime-main.js.map": "/beautiful-dnd/static/js/runtime-main.057833cb.js.map",
+    "static/js/2.8bef7b59.chunk.js": "/beautiful-dnd/static/js/2.8bef7b59.chunk.js",
+    "static/js/2.8bef7b59.chunk.js.map": "/beautiful-dnd/static/js/2.8bef7b59.chunk.js.map",
+    "index.html": "/beautiful-dnd/index.html",
+    "precache-manifest.c156bc1d4de0ea56dfc148deafbcd034.js": "/beautiful-dnd/precache-manifest.c156bc1d4de0ea56dfc148deafbcd034.js",
+    "service-worker.js": "/beautiful-dnd/service-worker.js",
+    "static/js/2.8bef7b59.chunk.js.LICENSE.txt": "/beautiful-dnd/static/js/2.8bef7b59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.057833cb.js",
+    "static/js/2.8bef7b59.chunk.js",
+    "static/js/main.3ef60043.chunk.js"
+  ]
+}
